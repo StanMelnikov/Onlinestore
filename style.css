@@ -1,0 +1,265 @@
+.description__text {
+   font-family: Montserrat;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 64px;
+   line-height: 70px;
+   color: #FFFFFF;
+}
+.container {
+background: url("./pics/header.png");
+background-size: cover;
+}
+
+.main-header__search {
+border-radius:20px;
+background: transparent;
+}
+
+.interior.png {
+position: absolute;
+width: 583.48px;
+height: 414.69px;
+left: 120.52px;
+top: 889.55px;
+    }
+
+.headerone {
+position: absolute;
+width: 355px;
+height: 59px;
+left: 120.05px;
+top: 798.55px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 59px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+    }
+
+ .firstpic {position: absolute;
+  width: 583.48px;
+  height: 414.69px;
+  left: 120.52px;
+  top: 889.55px;
+
+  background: url(.jpg), #C4C4C4;
+}
+.firstin {
+       position: absolute;
+       width: 327.77px;
+       height: 41px;
+       left: 248.38px;
+       top: 1076.89px;
+
+       font-family: Montserrat;
+       font-style: normal;
+       font-weight: 600;
+       font-size: 34px;
+       line-height: 41px;
+       display: flex;
+       align-items: center;
+       text-align: center;
+
+       color: #FFFFFF;
+        }
+
+
+.secondpic {
+    position: absolute;
+    width: 584px;
+    height: 414.69px;
+    left: 736px;
+    top: 889.55px;
+
+    background: url(.jpg), #C4C4C4;
+    }
+.secondin {
+position: absolute;
+width: 329.15px;
+height: 41px;
+left: 863.43px;
+top: 1055.89px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 41px;
+text-align: center;
+
+color: #FFFFFF;
+    }
+
+.thirdpic {
+position: absolute;
+width: 379px;
+height: 414.69px;
+left: 120px;
+top: 1336.24px;
+
+background: url(.jpg), #C4C4C4;}
+.thirdin {position: absolute;
+            width: 319.97px;
+            height: 41px;
+            left: 149.52px;
+            top: 1523.58px;
+
+            font-family: Montserrat;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 34px;
+            line-height: 41px;
+            display: flex;
+            align-items: center;
+            text-align: center;
+
+            color: #FFFFFF;
+            }
+
+
+.fourthpic {
+   position: absolute;
+   width: 378px;
+   height: 414.69px;
+   left: 531px;
+   top: 1336.24px;
+
+   background: url(.jpg), #C4C4C4;
+    }
+.fourthin {
+position: absolute;
+width: 319.97px;
+height: 41px;
+left: 560.02px;
+top: 1523.58px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 41px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+    }
+
+.fifthpic {
+    position: absolute;
+    width: 379px;
+    height: 414.69px;
+    left: 941px;
+    top: 1336.24px;
+
+    background: url(.jpg), #C4C4C4;
+        }
+
+.fifthin {
+position: absolute;
+width: 319.97px;
+height: 41px;
+left: 970.52px;
+top: 1523.58px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 34px;
+line-height: 41px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+    }
+
+.headertwo {position: absolute;
+width: 729px;
+height: 59px;
+left: 122.3px;
+top: 1814.93px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 59px;
+
+display: flex;
+align-items: center;
+color: #000000; }
+
+.rec22 {position: absolute;
+width: 379px;
+height: 250px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg), #C4C4C4;}
+.tatran {position: absolute;
+         width: 219.19px;
+         height: 30.54px;
+         left: 0px;
+         top: 260px;
+
+         font-family: Montserrat;
+         font-style: normal;
+         font-weight: 500;
+         font-size: 24px;
+         line-height: 29px;
+
+         color: #000000;}
+
+.basement {position: absolute;
+           width: 379px;
+           height: 37.2px;
+           left: 0px;
+           top: 298.54px;
+
+           font-family: Montserrat;
+           font-style: normal;
+           font-weight: normal;
+           font-size: 14px;
+           line-height: 17px;
+
+           color: #888888;}
+
+.hundredtwenty {position: absolute;
+                width: 155.92px;
+                height: 37.2px;
+                left: 0.69px;
+                top: 347.74px;
+
+                font-family: Montserrat;
+                font-style: normal;
+                font-weight: 500;
+                font-size: 24px;
+                line-height: 29px;
+
+                color: #050505;
+}
+
+hundredforty {position: absolute;
+              width: 155.92px;
+              height: 37.2px;
+              left: 188.61px;
+              top: 348.23px;
+
+              font-family: Montserrat;
+              font-style: normal;
+              font-weight: 500;
+              font-size: 24px;
+              line-height: 29px;
+              text-decoration-line: line-through;
+
+              color: #888888;}
